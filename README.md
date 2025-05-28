@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Alejandro, a backend and API developer from Spain with a storng interest on Cibersecurity and ethical hacking.
+I'm Alejandro, a backend and API developer from Spain with a strong interest in cibersecurity and ethical hacking.
 
 ## Languages and tools
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white)
