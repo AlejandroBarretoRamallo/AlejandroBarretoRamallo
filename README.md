@@ -21,4 +21,4 @@ I'm Alejandro, a backend and API developer from Spain with a strong interest in 
 
 ![AlejandroBarretoRamallo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroBarretoRamallo&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 ![AlejandroBarretoRamallo's Stats](https://github-readme-stats.vercel.app/api?username=AlejandroBarretoRamallo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![AlejandroBarretoRamallo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlejandroBarretoRamallo&theme=tokyonight&hide_border=true)
+![AlejandroBarretoRamallo's Streak](https://streak-stats.demolab.com/?user=AlejandroBarretoRamallo&theme=tokyonight&hide_border=true)
