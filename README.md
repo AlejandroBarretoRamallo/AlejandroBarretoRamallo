@@ -5,7 +5,7 @@ I'm **Alejandro**, a **backend and API developer** from Spain with a strong inte
 ---
 
 ## 🛠️ Skills
-[![My Skills](https://skillicons.dev/icons?i=cpp,git,linux,nodejs,express,react,ts,vscode,py,mongodb,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,git,linux,nodejs,express,react,ts,vscode,py,mongodb)](https://skillicons.dev)
 
 ---
 
