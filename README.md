@@ -4,18 +4,8 @@ I'm **Alejandro**, a **backend and API developer** from Spain with a strong inte
 
 ---
 
-## 🛠️ Languages and Tools
-
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
--------------------------------------------------------------------------------------------------
-[![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+## 🛠️ Skills
+[![My Skills](https://skillicons.dev/icons?i=cpp, git, linux, nodejs, express, react, ts, vscode, py, mongodb, )](https://skillicons.dev)
 
 ---
 
