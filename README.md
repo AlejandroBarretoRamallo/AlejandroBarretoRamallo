@@ -14,6 +14,8 @@ I'm **Alejandro**, a **backend and API developer** from Spain with a strong inte
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+-------------------------------------------------------------------------------------------------
+[![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 
 ---
 
